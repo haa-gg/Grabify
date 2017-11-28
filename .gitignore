@@ -1,0 +1,12 @@
+.DS_Store
+*.sass-cache*
+*.log
+*sftp-config.*
+node_modules/
+assets/components/
+assets/javascript/vendor/
+assets/javascript/foundation.js
+assets/javascript/custom/demosite.js
+packaged/
+wpcs/
+coinmk/login.php
